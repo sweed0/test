@@ -1,5 +1,7 @@
 package core;
 
+/**sweedo*/
+
 public enum Direction {
 	NORTH("^ "), SOUTH("v "), EAST("<-"), WEST("->");
 	
